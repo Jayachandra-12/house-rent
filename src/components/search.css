@@ -1,0 +1,8 @@
+.card:hover {
+    transform: scale(1.1);
+    background-color: aliceblue;
+}
+.btn:hover {
+    background-color: blue;
+    color: white;
+}

@@ -31,6 +31,14 @@ function Navbar() {
               </a>
             </li>
           </ul>
+          <ul className="navbar-nav ms-auto" >
+            <li className="nav-item active">
+              <a className="nav-link" href="#">Login</a>
+            </li>
+            <li className="nav-item active">
+              <a className="nav-link" href="#">Sign Up</a>
+            </li>
+          </ul>
         </div>
       </nav>
   )
